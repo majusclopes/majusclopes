@@ -6,7 +6,6 @@ Olá! Meu nome é Maria Júlia, tenho 19 anos e sou natural de Manaus – AM. Co
 
 Tenho interesse pela área de tecnologia e estou em constante aprendizado, buscando desenvolver minhas habilidades em programação, lógica e desenvolvimento de software.
 
-
 <p align="left">
     <a href="https://github.com/majusclopes?tab=followers">
         <img 
