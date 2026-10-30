@@ -1,7 +1,6 @@
 ### 👩‍💻 Maria Julia Lopes
 
 **``Acadêmica de Ciência da Computação``**
----
 
 Olá! Meu nome é Maria Júlia, tenho 19 anos e sou natural de Manaus – AM. Concluí o Ensino Médio no SESI e atualmente sou estudante de Ciência da Computação no CIESA.
 
